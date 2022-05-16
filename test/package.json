@@ -19,6 +19,6 @@
   },
   "dependencies": {
     "shell-escape-tag": "^2.0.2",
-    "url-join": "^4.0.1"
+    "url-join": "^5.0.0"
   }
 }
